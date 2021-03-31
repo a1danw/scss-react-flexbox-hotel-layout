@@ -2,3 +2,4 @@
 <h2>Responsive single page using scss, flexbox in React.</h2>
 </p>
 
+![](hotel-readme-img.png)
