@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd53c070bcbc590132c22efc974b9ab1",
+    "revision": "151dbe74e0fef90378841ee3aa2db869",
     "url": "/scss-react-flexbox-hotel-layout/index.html"
   },
   {
-    "revision": "a8f82fb7f33f2defb087",
-    "url": "/scss-react-flexbox-hotel-layout/static/css/main.9b59d7b2.chunk.css"
+    "revision": "6affc4c48e8498e5c567",
+    "url": "/scss-react-flexbox-hotel-layout/static/css/main.d19ebbeb.chunk.css"
   },
   {
     "revision": "c6c7b73b3b81bc32b39e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/scss-react-flexbox-hotel-layout/static/js/2.1814a3aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8f82fb7f33f2defb087",
+    "revision": "6affc4c48e8498e5c567",
     "url": "/scss-react-flexbox-hotel-layout/static/js/main.6e4d9a05.chunk.js"
   },
   {

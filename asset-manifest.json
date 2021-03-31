@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/scss-react-flexbox-hotel-layout/static/css/main.9b59d7b2.chunk.css",
+    "main.css": "/scss-react-flexbox-hotel-layout/static/css/main.d19ebbeb.chunk.css",
     "main.js": "/scss-react-flexbox-hotel-layout/static/js/main.6e4d9a05.chunk.js",
     "main.js.map": "/scss-react-flexbox-hotel-layout/static/js/main.6e4d9a05.chunk.js.map",
     "runtime-main.js": "/scss-react-flexbox-hotel-layout/static/js/runtime-main.0a6ee639.js",
@@ -8,9 +8,9 @@
     "static/js/2.1814a3aa.chunk.js": "/scss-react-flexbox-hotel-layout/static/js/2.1814a3aa.chunk.js",
     "static/js/2.1814a3aa.chunk.js.map": "/scss-react-flexbox-hotel-layout/static/js/2.1814a3aa.chunk.js.map",
     "index.html": "/scss-react-flexbox-hotel-layout/index.html",
-    "precache-manifest.e146befbffc24ed317afcd7412d9f757.js": "/scss-react-flexbox-hotel-layout/precache-manifest.e146befbffc24ed317afcd7412d9f757.js",
+    "precache-manifest.a3889c1a26d80153377b24ce956eab0a.js": "/scss-react-flexbox-hotel-layout/precache-manifest.a3889c1a26d80153377b24ce956eab0a.js",
     "service-worker.js": "/scss-react-flexbox-hotel-layout/service-worker.js",
-    "static/css/main.9b59d7b2.chunk.css.map": "/scss-react-flexbox-hotel-layout/static/css/main.9b59d7b2.chunk.css.map",
+    "static/css/main.d19ebbeb.chunk.css.map": "/scss-react-flexbox-hotel-layout/static/css/main.d19ebbeb.chunk.css.map",
     "static/js/2.1814a3aa.chunk.js.LICENSE.txt": "/scss-react-flexbox-hotel-layout/static/js/2.1814a3aa.chunk.js.LICENSE.txt",
     "static/media/aidan.jpg": "/scss-react-flexbox-hotel-layout/static/media/aidan.d525334c.jpg",
     "static/media/aircraft-take-off.svg": "/scss-react-flexbox-hotel-layout/static/media/aircraft-take-off.1c7c557e.svg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.0a6ee639.js",
     "static/js/2.1814a3aa.chunk.js",
-    "static/css/main.9b59d7b2.chunk.css",
+    "static/css/main.d19ebbeb.chunk.css",
     "static/js/main.6e4d9a05.chunk.js"
   ]
 }
